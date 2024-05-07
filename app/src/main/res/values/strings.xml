@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExampNaufal</string>
+    <string name="title"><![CDATA[Best Price & Deals]]></string>
+    <string name="penjelasan">Find your favorite Meals at the best prices with exclusive deals only on aliments app.</string>
+    <string name="welcomback">Welcomback</string>
+    <string name="login">Login</string>
+    <string name="contoh">Name</string>
+    <string name="tgl">Yogyakarta, 14 April 2000</string>
+    <string name="andoid_developer">Andoid Developer</string>
+</resources>
